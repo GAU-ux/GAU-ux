@@ -10,7 +10,6 @@
       margin: 0;
       padding: 0;
     }
-
     h1, h4 {
       color: #333;
     }
