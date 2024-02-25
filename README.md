@@ -13,6 +13,8 @@
 <p align="center">
 <br>
 
-<a href="[https://www.linkedin.com/in/gauravrathore26/](https://www.linkedin.com/in/gauravrathore720/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+
+<a href="[https://www.linkedin.com/in/gauravrathore720/](https://www.linkedin.com/in/gauravrathore720/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:rathorgaurav275@gmail.com.com?subject=Hello%20Gaurav"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
+<a href="https://auth.geeksforgeeks.org/user/grdbf02"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
