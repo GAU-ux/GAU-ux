@@ -1,8 +1,6 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -10,7 +8,8 @@
       margin: 0;
       padding: 0;
     }
-    h1, h4 {
+
+    h1, h4, h3 {
       color: #333;
     }
 
@@ -57,23 +56,17 @@
 <body>
 
   <div class="container">
-    <p>
-      <h1 align="center"><b>Hello there, I'm Gaurav Rathore👋</b></h1>
-    </p>
+    <h1 align="center">Hello there, I'm Gaurav Rathore👋</h1>
 
-    <p>
-      <h4 align="center"><b><i>"Programming is the closest thing we have to a superpower. With it, we can create worlds, solve problems, and turn imagination into reality."</i></b></h4>
-    </p>
+    <h4 align="center">"Programming is the closest thing we have to a superpower. With it, we can create worlds, solve problems, and turn imagination into reality."</h4>
 
     <br>
 
-    <a href="https://www.linkedin.com/in/gauravrathore720/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-    <a href="mailto:rathorgaurav275@gmail.com?subject=Hello%20Gaurav"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+    <a href="https://www.linkedin.com/in/gauravrathore720/">LinkedIn</a>&nbsp;
+    <a href="mailto:rathorgaurav275@gmail.com?subject=Hello%20Gaurav">Gmail</a>&nbsp;
 
     <h3>Languages and Tools:</h3>
     <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-    <img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
     <!-- Include other language and tool icons as needed -->
 
     <br>
